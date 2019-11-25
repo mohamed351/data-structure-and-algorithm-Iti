@@ -1,0 +1,7 @@
+﻿  Source.c
+c:\users\mohamed beshri amer\source\repos\sortingsection\binarysearch\source.c(115): warning C4028: formal parameter 1 different from declaration
+c:\users\mohamed beshri amer\source\repos\sortingsection\binarysearch\source.c(115): warning C4029: declared formal parameter list different from definition
+  Generating code
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  BinarySearch.vcxproj -> C:\Users\Mohamed Beshri Amer\source\repos\SortingSection\Release\BinarySearch.exe

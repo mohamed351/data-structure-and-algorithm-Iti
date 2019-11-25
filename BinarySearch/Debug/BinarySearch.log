@@ -1,0 +1,4 @@
+﻿  Source.c
+c:\users\mohamed beshri amer\source\repos\sortingsection\binarysearch\source.c(115): warning C4028: formal parameter 1 different from declaration
+c:\users\mohamed beshri amer\source\repos\sortingsection\binarysearch\source.c(115): warning C4029: declared formal parameter list different from definition
+  BinarySearch.vcxproj -> C:\Users\Mohamed Beshri Amer\source\repos\SortingSection\Debug\BinarySearch.exe
