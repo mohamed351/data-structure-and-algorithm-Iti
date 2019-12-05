@@ -152,8 +152,6 @@ void printInorder(struct Node* node)
 
 	printInorder(node->pright);
 }
-
-
 void printPreorder(struct Node* node)
 {
 	if (node == NULL)

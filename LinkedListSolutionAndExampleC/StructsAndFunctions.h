@@ -63,7 +63,7 @@ void DisplayDoubleLinkedListReverse() {
 }
 int GetMax()
 {
-	int i = -8887562;
+	int i = DHead->Data;
 	struct DoubleLinkedListNode *temp = DHead;
 	if (temp !=NULL)
 	{

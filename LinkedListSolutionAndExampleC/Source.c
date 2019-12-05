@@ -2,11 +2,14 @@
 #include<conio.h>
 //single LinkedList Node
 #include "StructsAndFunctions.h"
+#include<Windows.h>
 
 
 int main()
 {
-	printf("==============Print A===========\n");
+	MessageBox(NULL, "Hello To The World of Data Structure ", "Mohamed ", MB_OK);
+
+	printf("==============Print Double Linked List===========\n");
 	AddDoubleLinkedList(900);
 	AddDoubleLinkedList(200);
 	AddDoubleLinkedList(60);
@@ -23,10 +26,10 @@ int main()
 
 	//GetMax Number in Linked List 
 	int number = GetMax();
-      printf("The min is :  %d\n", number);
+      printf("The max is :  %d\n", number);
 
 	  int number2 = GetMin();
-	  printf("The max is  : %d\n", number2);
+	  printf("The min is  : %d\n", number2);
 
 	  printf("The Sum is  : %d \n", Sum());
 
